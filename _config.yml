@@ -23,7 +23,7 @@ repository               : "heussner/heussner.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "RTH_headshot.jpg"
+  avatar           : "RTH_headshot.png"
   name             : "Robert Heussner"
   bio              : "PhD student in Biomedical Engineering"
   location         : "Charlottesville, VA"
