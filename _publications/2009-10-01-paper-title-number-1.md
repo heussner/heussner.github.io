@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "COEXIST: Coordinated single-cell integration of serial multiplexed tissue images"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2025-08-06-COEXIST
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+date: 2025-08-06
+venue: 'PLOS Computational Biology'
+paperurl: 'https://academicpages.github.io/files/journal.pcbi.1013325.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Heussner, RT; et al. (2025). &quot;COEXIST: Coordinated single-cell integration of serial multiplexed tissue images&quot; <i>PLOS Computational Biology</i>. 21(8).'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
