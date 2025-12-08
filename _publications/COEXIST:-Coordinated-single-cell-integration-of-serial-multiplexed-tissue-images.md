@@ -3,7 +3,7 @@ title: "COEXIST: Coordinated single-cell integration of serial multiplexed tissu
 collection: publications
 category: manuscripts
 permalink: /publication/2025-08-06-COEXIST
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2025-08-06
 venue: 'PLOS Computational Biology'
 paperurl: 'https://academicpages.github.io/files/journal.pcbi.1013325.pdf'
