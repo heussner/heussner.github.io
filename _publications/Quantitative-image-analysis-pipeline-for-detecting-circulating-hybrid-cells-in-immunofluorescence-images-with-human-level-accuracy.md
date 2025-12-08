@@ -1,7 +1,7 @@
 ---
 title: "Quantitative image analysis pipeline for detecting circulating hybrid cells in immunofluorescence images with human-level accuracy"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/Quantitative-image-analysis-pipeline-for-detecting-circulating-hybrid-cells-in-immunofluorescence-images-with-human-level-accuracy
 excerpt: ''
 date: 2024-01-24
